@@ -2,8 +2,8 @@
   "id": 1,
   "title": "Start",
   "title_de": "Anfang",
-  "content": "Let's begin our journey! (DEV)",
-  "content_de": "Los geht's! (DEV)",
+  "content": "Let's begin our journey!",
+  "content_de": "Los geht's!",
   "target": ".container-fluid",
   "placement": "center"
 },
@@ -11,8 +11,8 @@
   "id": 2,
   "title": "Step 1",
   "title_de": "Shritt 1",
-  "content": "This is step 1 (DEV)",
-  "content_de": "Das ist Schritt 1 (DEV)",
+  "content": "This is step 1",
+  "content_de": "Das ist Schritt 1",
   "target": ".container-fluid",
   "placement": "top-end"
 },
@@ -20,9 +20,9 @@
 		"id":3,
 		"title": "Step 2",
 		"title_de": "Shritt 2",
-		"content":  "This is step 2 (DEV)",
-		"content_de": "Das ist Schritt 2 (DEV)",
-		"target":  "#sidebar-wrapper",
+		"content":  "This is step 2",
+		"content_de": "Das ist Schritt 2",
+		"target":  ".navbar-qmBase",
 		"placement": "right"
 },
 {   
