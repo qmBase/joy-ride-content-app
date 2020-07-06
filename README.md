@@ -1,1 +1,1 @@
-# joy-ride-app
+# joy-ride-content-app
