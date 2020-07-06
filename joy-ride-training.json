@@ -2,7 +2,7 @@
   "id": 1,
   "title": "Start",
   "title_de": "Anfang",
-  "content": "Let's begin our journey! (DEV)",
+  "content": "Let's begin our journey! (DEV )",
   "content_de": "Los geht's! (DEV)",
   "target": ".container-fluid",
   "placement": "center"
