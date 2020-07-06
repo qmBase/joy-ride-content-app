@@ -1,0 +1,43 @@
+      [{
+        content: (
+          <div>
+            <h2>
+              {i18next.t("Welcome to")} {productName}{" "}
+              <span role="img" aria-label="Konfetti">
+                🎉
+              </span>
+            </h2>
+            <p>{i18next.t("moduleInfo:product.ShortDescription", { productName: productName })}</p>
+            <p>{i18next.t("Let's begin our journey!")}</p>
+          </div>
+        ),
+        target: ".container-fluid",
+        placement: "center",
+      },
+      {
+        title: i18next.t("Available Apps"),
+        content: (
+          <div>
+            <p>{i18next.t("moduleInfo:tour.availableAppsRow")}</p>
+          </div>
+        ),
+        target: "#availableAppsRow",
+        placement: "top-end",
+      },      {
+        title: i18next.t("Navigation bar"),
+        content: (
+          <div>
+            <p>{i18next.t("moduleInfo:tour.navbar")}</p>
+          </div>
+        ),
+        target: ".navbar-qmBase",
+      },
+      {
+        title: i18next.t("Startpage"),
+        content: (
+          <div>
+            <p>{i18next.t("moduleInfo:tour.brandIcon")}</p>
+          </div>
+        ),
+        target: ".navbar-brand",
+      }]
