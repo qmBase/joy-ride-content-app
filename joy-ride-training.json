@@ -41,7 +41,7 @@
 		"content":  "This is the end",
 		"content_de": "Das ist das Ende",
 		"target":  "#page-content-wrapper",
-		placement: "center"
+		placement: center
 }
 
 ]
