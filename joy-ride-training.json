@@ -1,4 +1,10 @@
-
+[{
+  "id": 1,
+  "title": "Start",
+  "title_de": "Anfang",
+  "content": "Let's begin our journey!",
+  "Content_de": "Los geht's!",
+  "target": ".container-fluid",
   "placement": "center"
 },
 {
