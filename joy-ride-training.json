@@ -3,10 +3,7 @@
   "title": "Start",
   "title_de": "Anfang",
   "content": "Let's begin our journey!",
-  "Content_de": "Los geht's!",
-  "target": ".container-fluid",
-  "placement": "center"
-},
+ 
 {
   "id": 2,
   "title": "Step 1",
