@@ -11,7 +11,7 @@
   "id": 2,
   "title": "Step 1",
   "title_de": "Shritt 1",
-  "content": "This is step 1",
+  "content": "This is step 1 dev",
   "Content_de": "Das ist Schritt 1",
   "target": ".container-fluid",
   "placement": "top-end"
