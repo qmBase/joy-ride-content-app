@@ -1,9 +1,9 @@
 [{
   "id": 1,
-  "title": "Start DEV",
+  "title": "Start",
   "title_de": "Anfang",
   "content": "Let's begin our journey!",
-  "Content_de": "Los geht's!",
+  "Content_de": "Los geht's DEV!",
   "target": ".container-fluid",
   "placement": "center"
 },
