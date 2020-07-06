@@ -31,7 +31,7 @@
 		"title_de": "Shritt 3",
 		"content":  "This is step 3",
 		"content_de": "Das ist Schritt 3",
-		"target":  "#helpButton",
+		"target":  "#sidebar-wrapper",
 		"placement": "center"
 },
 {   
