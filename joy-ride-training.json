@@ -1,33 +1,45 @@
 [{
   "id": 1,
-  "content": "moduleInfo:product.ShortDescription",
+  "title": "Start",
+  "title_de": "Anfang",
+  "content": "Let's begin our journey!",
+  "Content_de": "Los geht's!",
   "target": ".container-fluid",
   "placement": "center"
 },
+{
+  "id": 2,
+  "title": "Step 1",
+  "title_de": "Shritt 1",
+  "content": "This is step 1",
+  "Content_de": "Das ist Schritt 1",
+  "target": ".container-fluid",
+  "placement": "top-end"
+},
 {   
-		"id":2,
-		"title": "Available Apps",
-		"content":  "moduleInfo:tour.availableAppsRow",
+		"id":3,
+		"title": "Step 2",
+		"title_de": "Shritt 2",
+		"content":  "This is step 2",
+		"content_de": "Das ist Schritt 2",
 		"target":  "#sidebar-wrapper",
 		"placement": "right"
-},
- {   
-		"id":3,
-		"title": "Navigation bar",
-		"content":  "moduleInfo:tour.navbar",
-		"target":  ".navbar-qmBase"
 },
 {   
 		"id":4,
-		"title": "Sidebar",
-		"content":  "moduleInfo:tour.sidebar",
+		"title": "Step 3",
+		"title_de": "Shritt 3",
+		"content":  "This is step 3",
+		"content_de": "Das ist Schritt 3",
 		"target":  "#sidebar-wrapper",
-		"placement": "right"
+		"placement": "center"
 },
 {   
 		"id":5,
 		"title": "The End",
-		"content":  "moduleInfo:tour.closingBeacon",
+		"title_de": "zum Ende",
+		"content":  "This is the end",
+		"content_de": "Das ist das Ende",
 		"target":  "#page-content-wrapper",
 		"placement": "center"
 }
