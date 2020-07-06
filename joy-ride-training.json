@@ -1,43 +1,47 @@
-      [{
-        content: (
-          <div>
-            <h2>
-              {i18next.t("Welcome to")} {productName}{" "}
-              <span role="img" aria-label="Konfetti">
-                🎉
-              </span>
-            </h2>
-            <p>{i18next.t("moduleInfo:product.ShortDescription", { productName: productName })}</p>
-            <p>{i18next.t("Let's begin our journey!")}</p>
-          </div>
-        ),
-        target: ".container-fluid",
-        placement: "center",
-      },
-      {
-        title: i18next.t("Available Apps"),
-        content: (
-          <div>
-            <p>{i18next.t("moduleInfo:tour.availableAppsRow")}</p>
-          </div>
-        ),
-        target: "#availableAppsRow",
-        placement: "top-end",
-      },      {
-        title: i18next.t("Navigation bar"),
-        content: (
-          <div>
-            <p>{i18next.t("moduleInfo:tour.navbar")}</p>
-          </div>
-        ),
-        target: ".navbar-qmBase",
-      },
-      {
-        title: i18next.t("Startpage"),
-        content: (
-          <div>
-            <p>{i18next.t("moduleInfo:tour.brandIcon")}</p>
-          </div>
-        ),
-        target: ".navbar-brand",
-      }]
+[
+	{
+		id:1,
+		title: "Start",
+		title_de:"Anfang",
+		content: "Let's begin our journey!",
+		Content_de:"Los geht's!",
+		target: ".container-fluid",
+		placement: "center",
+	},
+	{
+		id:2,
+		title:"Step 1",
+		title_de:"Shritt 1",
+		content: "This is step 1",
+		content_de: "Das ist Schritt 1",
+		target: ".container-fluid",
+		placement: "top-end",
+	},
+	{
+		id:3,
+		title:"Step 2",
+		title_de:"Shritt 2",
+		content: "This is step 2",
+		content_de: "Das ist Schritt 2",
+		target: "#sidebar-wrapper",
+		placement: "right",
+    },
+	{
+		id:4,
+		title:"Step 3",
+		title_de:"Shritt 3",
+		content: "This is step 3",
+		content_de: "Das ist Schritt 3",
+		target: "#helpButton",
+		placement: "center",
+    },
+	{
+		id:5,
+		title:"The End",
+		title_de:"zum Ende",
+		content: "This is the end",
+		content_de: "Das ist das Ende",
+		target: "#page-content-wrapper",
+		placement: "center",
+    }	
+]
