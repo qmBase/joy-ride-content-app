@@ -1,6 +1,6 @@
 [
 	{
-		"id":1,
+		"id":"1",
 		"title": "Start",
 		"title_de":"Anfang",
 		"content": "Let's begin our journey!",
@@ -9,7 +9,7 @@
 		"placement": "center",
 	},  
 	{   
-		"id":2,
+		"id":"2",
 		"title":"Step 1",
 		"title_de":"Shritt 1",
 		"content": "This is step 1",
@@ -18,7 +18,7 @@
 		"placement": "top-end",
 	},  
 	{   
-		"id":3,
+		"id":"3",
 		"title":"Step 2",
 		"title_de":"Shritt 2",
 		"content": "This is step 2",
@@ -27,7 +27,7 @@
 		"placement": "right",
     },  
 	{   
-		"id":4,
+		"id":"4",
 		"title":"Step 3",
 		"title_de":"Shritt 3",
 		"content": "This is step 3",
@@ -36,7 +36,7 @@
 		"placement": "center",
     },  
 	{   
-		"id":5,
+		"id":"5",
 		"title":"The End",
 		"title_de":"zum Ende",
 		"content": "This is the end",
