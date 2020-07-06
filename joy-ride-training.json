@@ -2,8 +2,8 @@
   "id": 1,
   "title": "Start",
   "title_de": "Anfang",
-  "content": "Let's begin our journey!",
-  "Content_de": "Los geht's!",
+  "content": "Let's begin our journey! (DEV)",
+  "Content_de": "Los geht's! (DEV)",
   "target": ".container-fluid",
   "placement": "center"
 },
@@ -11,8 +11,8 @@
   "id": 2,
   "title": "Step 1",
   "title_de": "Shritt 1",
-  "content": "This is step 1",
-  "Content_de": "Das ist Schritt 1",
+  "content": "This is step 1 (DEV)",
+  "Content_de": "Das ist Schritt 1 (DEV)",
   "target": ".container-fluid",
   "placement": "top-end"
 },
@@ -20,8 +20,8 @@
 		"id":3,
 		"title": "Step 2",
 		"title_de": "Shritt 2",
-		"content":  "This is step 2",
-		"content_de": "Das ist Schritt 2",
+		"content":  "This is step 2 (DEV)",
+		"content_de": "Das ist Schritt 2 (DEV)",
 		"target":  "#sidebar-wrapper",
 		"placement": "right"
 },
@@ -29,8 +29,8 @@
 		"id":4,
 		"title": "Step 3",
 		"title_de": "Shritt 3",
-		"content":  "This is step 3",
-		"content_de": "Das ist Schritt 3",
+		"content":  "This is step 3 (DEV)",
+		"content_de": "Das ist Schritt 3 (DEV)",
 		"target":  "#sidebar-wrapper",
 		"placement": "center"
 },
@@ -38,8 +38,8 @@
 		"id":5,
 		"title": "The End",
 		"title_de": "zum Ende",
-		"content":  "This is the end",
-		"content_de": "Das ist das Ende",
+		"content":  "This is the end (DEV)",
+		"content_de": "Das ist das Ende (DEV)",
 		"target":  "#page-content-wrapper",
 		"placement": "center"
 }
