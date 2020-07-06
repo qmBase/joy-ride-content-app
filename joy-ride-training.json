@@ -3,7 +3,7 @@
   "title": "Start",
   "title_de": "Anfang",
   "content": "Let's begin our journey! (DEV)",
-  "Content_de": "Los geht's! (DEV)",
+  "content_de": "Los geht's! (DEV)",
   "target": ".container-fluid",
   "placement": "center"
 },
@@ -12,7 +12,7 @@
   "title": "Step 1",
   "title_de": "Shritt 1",
   "content": "This is step 1 (DEV)",
-  "Content_de": "Das ist Schritt 1 (DEV)",
+  "content_de": "Das ist Schritt 1 (DEV)",
   "target": ".container-fluid",
   "placement": "top-end"
 },
