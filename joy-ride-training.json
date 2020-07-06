@@ -1,10 +1,4 @@
-[{
-  "id": 1,
-  "title": "Start",
-  "title_de": "Anfang",
-  "content": "Let's begin our journey!",
-  "Content_de": "Los geht's!",
-  "target": ".container-fluid",
+
   "placement": "center"
 },
 {
@@ -24,7 +18,8 @@
 		"content_de": "Das ist Schritt 2",
 		"target":  "#sidebar-wrapper",
 		"placement": "right"
-  
+},
+{  
 		"id":4,
 		"title": "Step 3",
 		"title_de": "Shritt 3",
