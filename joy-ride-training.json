@@ -22,7 +22,7 @@
 		"title_de": "Shritt 2",
 		"content":  "This is step 2",
 		"content_de": "Das ist Schritt 2",
-		"target":  ".navbar-qmBase,
+		"target":  ".navbar-qmBase",
 		"placement": "right"
 },
 {   
