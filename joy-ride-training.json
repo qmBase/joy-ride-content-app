@@ -1,46 +1,67 @@
-[{
+[
+{
   "id": 1,
-  "title": "Start",
-  "title_de": "Anfang",
-  "content": "Let's begin our journey!",
-  "content_de": "Los geht's!",
+  "title": {
+    "en-US":"Start",
+    "de-DE":"Anfang"
+  },
+  "content": {
+    "en-US":"Let's begin our journey!",
+    "de-DE":"Los geht's!"
+  },
   "target": ".container-fluid",
   "placement": "center"
 },
 {
   "id": 2,
-  "title": "Step 1",
-  "title_de": "Shritt 1",
-  "content": "This is step 1",
-  "content_de": "Das ist Schritt 1",
+  "title": {
+    "en-US":"Step 1",
+    "de-DE":"Shritt 1"
+  },
+  "content": {
+    "en-US":"This is step 1",
+    "de-DE":"Das ist Schritt 1"
+  },
   "target": ".container-fluid",
   "placement": "top-end"
 },
-{   
-		"id":3,
-		"title": "Step 2",
-		"title_de": "Shritt 2",
-		"content":  "This is step 2",
-		"content_de": "Das ist Schritt 2",
-		"target":  ".navbar-qmBase",
-		"placement": "right"
+{
+  "id": 3,
+  "title": {
+    "en-US":"Step 2",
+    "de-DE":"Shritt 2"
+  },
+  "content": {
+    "en-US":"This is step 2",
+    "de-DE":"Das ist Schritt 2"
+  },
+  "target": ".container-fluid",
+  "placement": "top-end"
 },
-{   
-		"id":4,
-		"title": "Step 3",
-		"title_de": "Shritt 3",
-		"content":  "This is step 3",
-		"content_de": "Das ist Schritt 3",
-		"target":  "#sidebar-wrapper",
-		"placement": "center"
+{
+  "id": 4,
+  "title": {
+    "en-US":"Step 3",
+    "de-DE":"Shritt 3"
+  },
+  "content": {
+    "en-US":"This is step 3",
+    "de-DE":"Das ist Schritt 3"
+  },
+  "target": ".container-fluid",
+  "placement": "top-end"
 },
-{   
-		"id":5,
-		"title": "The End",
-		"title_de": "zum Ende",
-		"content":  "This is the end",
-		"content_de": "Das ist das Ende",
-		"target":  "#page-content-wrapper",
-		"placement": "center"
+{
+  "id": 5,
+  "title": {
+    "en-US":"The End",
+    "de-DE":"zum Ende"
+  },
+  "content": {
+    "en-US":"This is the end",
+    "de-DE":"Das ist das Ende"
+  },
+  "target": ".container-fluid",
+  "placement": "top-end"
 }
 ]
