@@ -61,7 +61,7 @@
     "en":"Use our FAQ's to get help or feel free to conact us!",
     "de":"Besuchen Sie unsere FAQ's oder kontaktieren Sie uns!"
   },
-  "target": ".navbar-qmBase",
+  "target": "#navbarHelpDropdown",
   "placement": "right-end"
   }
 ]
