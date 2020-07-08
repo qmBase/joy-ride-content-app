@@ -3,7 +3,7 @@
   "id": 1,
   "title": {
     "en":" <span role='img' aria-label='Konfetti'>🎉</span> Welcome to the training app",
-    "de":"Willkommen in der App Schulungsmanagement"
+    "de":"<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
   },
   "content": {
     "en":"<b>Let's take a look at the app together</b>",
@@ -54,8 +54,8 @@
 {
   "id": 5,
     "title": {
-    "en":"Do you have any questions?",
-    "de":"Haben Sie noch Fragen?"
+    "en":"<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
+    "de":"<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
   },
   "content": {
     "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get help!",
