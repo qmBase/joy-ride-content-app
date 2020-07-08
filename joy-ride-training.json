@@ -6,8 +6,8 @@
     "de":"<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
   },
   "content": {
-    "en":"<b>Let's take a look at the app together</b>",
-    "de":"<b>Lassen Sie uns gemeinsam einen Blick auf die App werfen!</b>"
+    "en":"Let's take a look at the app together",
+    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen!"
   },
   "target": ".container-fluid",
   "placement": "center"
@@ -59,7 +59,7 @@
   },
   "content": {
     "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get help!",
-    "de":"Besuchen Sie unsere FAQ's!"
+    "de":"Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
   },
   "target": "#navbarHelpDropdown",
   "placement": "right-end"
