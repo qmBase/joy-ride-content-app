@@ -18,46 +18,31 @@ placement: the position of the joy ride step on the page.
 The sample layout of the Json file should be like the following : 
 
 ```json
-[
-  {
+[{
   "id": 1,
   "title": {
-  "en": "Start",
-  "de": "Anfang"
+    "en":"Start",
+    "de":"Anfang"
   },
   "content": {
-  "en": "Let's begin our journey!",
-  "de": "Los geht's!"
+    "en":"Let's begin our journey!",
+    "de":"Los geht's!"
   },
   "target": ".container-fluid",
   "placement": "center"
-  },
-  {
+},
+{
   "id": 2,
   "title": {
-  "en": "Step 1",
-  "de": "Shritt 1"
+    "en":"Step 1",
+    "de":"Shritt 1"
   },
   "content": {
-  "en": "This is step 1",
-  "de": "Das ist Schritt 1"
+    "en":"This is step 1",
+    "de":"Das ist Schritt 1"
   },
   "target": ".container-fluid",
   "placement": "top-end"
-  },
-  {
-  "id": 3,
-  "title": {
-  "en": "Step 2",
-  "de": "Shritt 2"
-  },
-  "content": {
-  "en": "This is step 2",
-  "de": "Das ist Schritt 2"
-  },
-  "target": ".container-fluid",
-  "placement": "top-end"
-  }
-]
+}]
 ```
 **N.B: If the new language is not specified for title or content attributes, the default English values will be displayed**
