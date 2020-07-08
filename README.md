@@ -21,12 +21,12 @@ The sample layout of the Json file should be like the following :
 [{
   "id": 1,
   "title": {
-    "en-US":"Start",
-    "de-DE":"Anfang"
+    "en":"Start",
+    "de":"Anfang"
   },
   "content": {
-    "en-US":"Let's begin our journey!",
-    "de-DE":"Los geht's!"
+    "en":"Let's begin our journey!",
+    "de":"Los geht's!"
   },
   "target": ".container-fluid",
   "placement": "center"
@@ -34,12 +34,12 @@ The sample layout of the Json file should be like the following :
 {
   "id": 2,
   "title": {
-    "en-US":"Step 1",
-    "de-DE":"Shritt 1"
+    "en":"Step 1",
+    "de":"Shritt 1"
   },
   "content": {
-    "en-US":"This is step 1",
-    "de-DE":"Das ist Schritt 1"
+    "en":"This is step 1",
+    "de":"Das ist Schritt 1"
   },
   "target": ".container-fluid",
   "placement": "top-end"
