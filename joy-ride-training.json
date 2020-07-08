@@ -58,7 +58,7 @@
     "de":"Haben Sie noch Fragen?"
   },
   "content": {
-    "en":"Use our FAQ's to get help!",
+    "en":"Use our <NavLink href={'/_Help/Faqs/'}>FAQ's</NavLink> to get help!",
     "de":"Besuchen Sie unsere FAQ's!"
   },
   "target": "#navbarHelpDropdown",
