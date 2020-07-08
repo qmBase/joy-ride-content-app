@@ -1,0 +1,28 @@
+[
+{
+  "id": 1,
+  "title": {
+    "en":"Start for Todo",
+    "de":"Anfang for massnahmen"
+  },
+  "content": {
+    "en":"Welcome",
+    "de":"Willkommen"
+  },
+  "target": ".container-fluid",
+  "placement": "center"
+},
+{
+  "id": 2,
+  "title": {
+    "en":"Step no.1",
+    "de":"Shritt nummer 1"
+  },
+  "content": {
+    "en":"This is step 1",
+    "de":"Das ist Schritt 1"
+  },
+  "target": ".container-fluid",
+  "placement": "top-end"
+}
+]
