@@ -2,12 +2,12 @@
 {
   "id": 1,
   "title": {
-    "en":"Start",
-    "de":"Anfang"
+    "en":"Welcome to the training app",
+    "de":"Willkommen in der App Schulungsmanagement"
   },
   "content": {
-    "en":"Let's begin our journey!",
-    "de":"Los geht's!"
+    "en":"Let's take a look at the app together",
+    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen!"
   },
   "target": ".container-fluid",
   "placement": "center"
@@ -15,51 +15,54 @@
 {
   "id": 2,
   "title": {
-    "en":"Step 1",
-    "de":"Shritt 1"
+    "en":"How does the training app work?",
+    "de":"Wie funktioniert die App Schulungsmanagement?"
   },
   "content": {
-    "en":"This is step 1",
-    "de":"Das ist Schritt 1"
+    "en":"The App helps you to manage employee trainings and notify employees about new training events.",
+    "de":"Mithilfe des Schulungsmanagements werden Schulungen geplant und Mitarbeiter über Schulungen informiert."
   },
-  "target": "#sidebar-wrapper",
-  "placement": "left-end"
+  "target": ".container-fluid",
+  "placement": "center"
 },
 {
   "id": 3,
   "title": {
-    "en":"Step 2",
-    "de":"Shritt 2"
+    "en":"Try it yourself!",
+    "de":"Probieren Sie es selbst!"
   },
   "content": {
-    "en":"This is step 2",
-    "de":"Das ist Schritt 2"
+    "en":"Click here to create a new training event, view existing training events, costs and the training demand of your employees!",
+    "de":"Klicken Sie hier um eine neue Schulung zu planen oder um Kosten, bestehende Schulungen oder den Schulungsbedarf Ihrer Mitarbeiter einzusehen."
   },
-  "target": ".container-fluid",
+  "target": "#sidebar-wrapper",
   "placement": "top-end"
 },
 {
   "id": 4,
-  "title": {
-    "en":"Step 3",
-    "de":"Shritt 3"
+    "title": {
+    "en":"It's your turn now!",
+    "de":"Jetzt sind Sie dran!"
   },
   "content": {
-    "en":"This is step 3",
-    "de":"Das ist Schritt 3"
+    "en":"You can start right away! For instance by planning a new training event and inviting your employees",
+    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!"
   },
   "target": ".container-fluid",
   "placement": "top-end"
 },
 {
   "id": 5,
-  "title": {
-    "en":"The End",
-    "de":"zum Ende"
+    "title": {
+    "en":"Do you have any questions?",
+    "de":"Haben Sie noch Fragen?"
   },
   "content": {
-    "en":"This is the end",
-    "de":"Das ist das Ende"
+    "en":"Use our FAQ's to get help or feel free to conact us!",
+    "de":"Besuchen Sie unsere FAQ's oder kontaktieren Sie uns!"
+  },
+  "target": ".navbar-qmBase",
+  "placement": "right-end"
   },
   "target": ".container-fluid",
   "placement": "top-end"
