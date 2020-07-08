@@ -17,6 +17,7 @@ placement: the position of the joy ride step on the page.
 
 The sample layout of the Json file should be like the following : 
 
+```json
 [{
   "id": 1,
   "title": {
@@ -43,5 +44,5 @@ The sample layout of the Json file should be like the following :
   "target": ".container-fluid",
   "placement": "top-end"
 }]
-
+```
 **N.B: If the new language is not specified for title or content attributes, the default English values will be displayed**
