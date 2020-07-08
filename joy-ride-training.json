@@ -2,12 +2,14 @@
 {
   "id": 1,
   "title": {
-    "en":"Welcome to the training app",
+    "en":"<span role='img' aria-label='Konfetti'>
+                🎉
+          </span> Welcome to the training app",
     "de":"Willkommen in der App Schulungsmanagement"
   },
   "content": {
-    "en":"Let's take a look at the app together",
-    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen!"
+    "en":"<b>Let's take a look at the app together</b>",
+    "de":"<b>Lassen Sie uns gemeinsam einen Blick auf die App werfen!</b>"
   },
   "target": ".container-fluid",
   "placement": "center"
