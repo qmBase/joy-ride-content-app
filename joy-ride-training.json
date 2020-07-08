@@ -64,8 +64,5 @@
   "target": ".navbar-qmBase",
   "placement": "right-end"
   },
-  "target": ".container-fluid",
-  "placement": "top-end"
-}
 ]
 
