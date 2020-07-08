@@ -2,9 +2,7 @@
 {
   "id": 1,
   "title": {
-    "en":"<span role='img' aria-label='Konfetti'>
-                🎉
-          </span> Welcome to the training app",
+    "en":"Welcome to the training app",
     "de":"Willkommen in der App Schulungsmanagement"
   },
   "content": {
