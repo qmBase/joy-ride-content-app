@@ -58,8 +58,8 @@
     "de":"Haben Sie noch Fragen?"
   },
   "content": {
-    "en":"Use our <a href='/Help'>FAQ's</a> to get help!",
-    "de":"Besuchen Sie unsere <a href='/Help'>FAQ's!</a>"
+    "en":"Use our FAQ's to get help!",
+    "de":"Besuchen Sie unsere FAQ's!"
   },
   "target": "#navbarHelpDropdown",
   "placement": "right-end"
