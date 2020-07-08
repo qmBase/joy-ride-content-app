@@ -1,6 +1,6 @@
 # joy-ride-content-app
 
-This repository is responsible for implementing generic Joyride component for app startpages. The repo contains .json files for the apps or modules we need to add the joy ride funcationality inside.
+This repository is used for applying a generic approach of Joyride component for app startpages. The repo contains .json files for the apps or modules we need to add the joy ride funcationality inside.
 
 The the name of the json file should fellow the following naming schema: joy-ride-{App_Name}.json.
 
