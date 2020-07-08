@@ -6,13 +6,17 @@ The the name of the json file should fellow the following naming schema: joy-rid
 
 Inside the file, we are initialising the following properties for every joy ride step:
 
-id: accepts the number of the step.
-title: the English title of the step.
-title_de: the German title of the step.
-content: the English content of the step.
-content_de: the German content of the step.
-target: the target HTML element that the step should display on the page,
-placement: the position of the joy ride step on the page.
+- id: accepts the number of the step.
+- title: the English title of the step.
+- title_de: the German title of the step.
+- content: the English content of the step.
+- content_de: the German content of the step.
+- target: 
+-- TODO: Specify the list of available targets
+-- the target HTML element that the step should display on the page,
+- placement: 
+-- TODO: Whicht Placements are possible? 
+-- the position of the joy ride step on the page.
 
 
 The sample layout of the Json file should be like the following : 
@@ -46,3 +50,6 @@ The sample layout of the Json file should be like the following :
 }]
 ```
 **N.B: If the new language is not specified for title or content attributes, the default English values will be displayed**
+
+Joyride options can found here:
+https://github.com/gilbarbara/react-joyride
