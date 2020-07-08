@@ -58,7 +58,7 @@
     "de":"Haben Sie noch Fragen?"
   },
   "content": {
-    "en":"Use our <a href={'/_Help/Faqs/'}>FAQ's</a> to get help!",
+    "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get help!",
     "de":"Besuchen Sie unsere FAQ's!"
   },
   "target": "#navbarHelpDropdown",
