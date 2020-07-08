@@ -49,6 +49,23 @@ The sample layout of the Json file should be like the following :
   "placement": "top-end"
 }]
 ```
+
+To select the placement you have to choose the approriate attribute of your choice from the following list:
+- top
+- top-start
+- top-end
+- bottom
+- bottom-start
+- bottom-end
+- left
+- left-start
+- left-end
+- right
+- right-start
+- right-end
+- auto
+- center
+
 **N.B: If the new language is not specified for title or content attributes, the default English values will be displayed**
 
 Joyride options can found here:
