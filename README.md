@@ -46,4 +46,4 @@ The sample layout of the Json file should be like the following :
 },
 ]
 
-** N.B: If the new language is not specified for title or content attributes, the default English values will be displayed  **
+**N.B: If the new language is not specified for title or content attributes, the default English values will be displayed**
