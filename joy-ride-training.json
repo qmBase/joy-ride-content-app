@@ -3,7 +3,8 @@
   "id": 1,
   "title": {
     "en-US":"Start",
-    "de-DE":"Anfang"
+    "de-DE":"Anfang",
+    "tr-TR":"Merhaba"
   },
   "content": {
     "en-US":"Let's begin our journey!",
