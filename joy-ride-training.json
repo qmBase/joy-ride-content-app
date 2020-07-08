@@ -22,8 +22,8 @@
     "en":"This is step 1",
     "de":"Das ist Schritt 1"
   },
-  "target": ".navbar-qmBase",
-  "placement": "bottom"
+  "target": "#sidebar-wrapper",
+  "placement": "left-start"
 },
 {
   "id": 3,
