@@ -46,7 +46,7 @@
   },
   "content": {
     "en":"You can start right away! For instance by planning a new training event and inviting your employees",
-    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!<img src=‘https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true’/>"
+    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!<img src='https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true'/>"
   },
   "target": ".container-fluid",
   "placement": "top-end"
