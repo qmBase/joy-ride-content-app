@@ -8,7 +8,8 @@
     "content": {
       "en": "Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
       "de": "Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
-    }
+    },
+    "target": ".container-fluid",
   },
   {
     "id": 2,
