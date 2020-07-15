@@ -1,4 +1,3 @@
-
 [
 {
   "id": 1,
@@ -12,5 +11,5 @@
   },
   "target": ".container-fluid",
   "placement": "center"
-},
+}
 ]
