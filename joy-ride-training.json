@@ -16,7 +16,7 @@
   "id": 2,
   "title": {
     "en":"How does the training app work?",
-    "de":"<b>Wie funktioniert die App Schulungsmanagement?</b>"
+    "de":"Wie funktioniert die App Schulungsmanagement?"
   },
   "content": {
     "en":"The App helps you to manage employee trainings and notify employees about new training events.",
@@ -58,7 +58,7 @@
     "de":"<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
   },
   "content": {
-    "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get help!",
+    "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
     "de":"Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
   },
   "target": "#navbarHelpDropdown",
