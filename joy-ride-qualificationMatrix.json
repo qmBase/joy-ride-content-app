@@ -20,7 +20,6 @@
   },
   "target": ".container-fluid",
   "placement": "center"
-},
 {
   "id": 3,
   "title": {
@@ -33,7 +32,6 @@
   },
   "target": "#sidebar-wrapper",
   "placement": "center"
-},
 {
   "id": 4,
     "title": {
@@ -46,7 +44,6 @@
   },
   "target": "#sidebar-wrapper",
   "placement": "center"
-},
 {
   "id": 5,
     "title": {
