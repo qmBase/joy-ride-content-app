@@ -2,12 +2,12 @@
 {
   "id": 1,
   "title": {
-    "en":" <span role='img' aria-label='Konfetti'>🎉</span> Welcome to the training app",
+    "en":" <span role='img' aria-label='Konfetti'>🎉</span> <b> Welcome to the training app </b>",
     "de":"<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
   },
   "content": {
-    "en":"Let's take a look at the app together",
-    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen!"
+    "en":"Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
+    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
   },
   "target": ".container-fluid",
   "placement": "center"
@@ -46,7 +46,7 @@
   },
   "content": {
     "en":"You can start right away! For instance by planning a new training event and inviting your employees",
-    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!"
+    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen! <img src=‘https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true’/>"
   },
   "target": ".container-fluid",
   "placement": "top-end"
