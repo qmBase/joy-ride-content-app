@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": " <span role='img' aria-label='Konfetti'>🎉</span>Welcome to the app Functions and Qualifications",
+      "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Aufgaben und Qualifkationen"
+    },
+    "content": {
+      "en": "Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
+      "de": "Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
+    }
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "How does the app work?",
+      "de": "Wie funktioniert die App Aufgaben und Qualifikationen?"
+    },
+    "content": {
+      "en": "The App informs you about the different qualifications of each employee and if there is a need for further training.",
+      "de": "Mithilfe des App wissen Sie genau welcher Mitarbeiter welche Qualifikationen besitzt und ob Schulungsbedarf besteht."
+    },
+    "target": ".container-fluid",
+    "placement": "center"
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Keep track about all qualifications",
+      "de": "Behalten Sie den Überblick über alle Qualifikationen"
+    },
+    "content": {
+      "en": "You can create a new function or a new qualification. Click on <a href='/_QualificationMatrix/CompanyFunctions/Index'>Functions</a> or <a href='/_QualificationMatrix/Qualifications/Index'>Qualifications</a> and select <b> + New</b>, view existing qualifications in the <a href='/_QualificationMatrix/Qualifications/Matrix'>Qualificationmatrix</a> and more tools that help you manage the qualifications of your employees!",
+      "de": "Hier haben Sie die Möglichkeit neue Aufgaben und neue Qualifikationen zu erstellen. <p>Klicken Sie auf <a href='/_QualificationMatrix/CompanyFunctions/Index'>Aufgaben</a> oder <a href='/_QualificationMatrix/Qualifications/Index'>Qualifikationen</a> und auf <b>+Neu</b> </p> Unter Qualifikationen sehen Sie außerdem die <a href='/_QualificationMatrix/Qualifications/Matrix'>Qualifikationsmatrix</a> und weitere Tools zum managen der Mitarbeiterqualifikationen."
+    },
+    "target": "#sidebar-wrapper",
+    "placement": "center"
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Do you need more information about the different job areas within your company?",
+      "de": "Benötigen Sie mehr Informationen über einzelne Arbeitsbereiche Ihres Unternehmens?"
+    },
+    "content": {
+      "en": "Select <a href='/_QualificationMatrix/JobDescriptions'>Job Descriptions</a> to view statistics and positions for each job description",
+      "de": "Unter <a href='/_QualificationMatrix/JobDescriptions'>Stellenbeschreibungen</a> finden Sie Statistiken und Positionen zu jeder Stellenbeschreibung."
+    },
+    "target": "#sidebar-wrapper",
+    "placement": "center"
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
+      "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
+    },
+    "content": {
+      "en": "Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
+      "de": "Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
+    },
+    "target": "#navbarHelpDropdown",
+    "placement": "right-end"
+  }
+]

@@ -2,12 +2,12 @@
 {
   "id": 1,
   "title": {
-    "en":" <span role='img' aria-label='Konfetti'>🎉</span> Welcome to the training app",
+    "en":" <span role='img' aria-label='Konfetti'>🎉</span>Welcome to the training app>",
     "de":"<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
   },
   "content": {
-    "en":"Let's take a look at the app together",
-    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen!"
+    "en":"Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
+    "de":"Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
   },
   "target": ".container-fluid",
   "placement": "center"
@@ -32,7 +32,7 @@
     "de":"Probieren Sie es selbst!"
   },
   "content": {
-    "en":"Click here to create a new training event, view existing training events, costs and the training demand of your employees!",
+    "en":"Click <i>here</i> to create a new training event, view existing training events, costs and the training demand of your employees!",
     "de":"Klicken Sie hier um eine neue Schulung zu planen oder um Kosten, bestehende Schulungen oder den Schulungsbedarf Ihrer Mitarbeiter einzusehen."
   },
   "target": "#sidebar-wrapper",
@@ -46,7 +46,7 @@
   },
   "content": {
     "en":"You can start right away! For instance by planning a new training event and inviting your employees",
-    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!"
+    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!<img src='https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true'/>"
   },
   "target": ".container-fluid",
   "placement": "top-end"
@@ -58,7 +58,7 @@
     "de":"<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
   },
   "content": {
-    "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get help!",
+    "en":"Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
     "de":"Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
   },
   "target": "#navbarHelpDropdown",
