@@ -2,7 +2,7 @@
 {
   "id": 1,
   "title": {
-    "en":" <span role='img' aria-label='Konfetti'>🎉</span> <b> Welcome to the training app </b>",
+    "en":" <span role='img' aria-label='Konfetti'>🎉</span>Welcome to the training app>",
     "de":"<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
   },
   "content": {
@@ -16,7 +16,7 @@
   "id": 2,
   "title": {
     "en":"How does the training app work?",
-    "de":"Wie funktioniert die App Schulungsmanagement?"
+    "de":"<b>Wie funktioniert die App Schulungsmanagement?</b>"
   },
   "content": {
     "en":"The App helps you to manage employee trainings and notify employees about new training events.",
@@ -32,7 +32,7 @@
     "de":"Probieren Sie es selbst!"
   },
   "content": {
-    "en":"Click here to create a new training event, view existing training events, costs and the training demand of your employees!",
+    "en":"Click <i>here</i> to create a new training event, view existing training events, costs and the training demand of your employees!",
     "de":"Klicken Sie hier um eine neue Schulung zu planen oder um Kosten, bestehende Schulungen oder den Schulungsbedarf Ihrer Mitarbeiter einzusehen."
   },
   "target": "#sidebar-wrapper",
@@ -46,7 +46,7 @@
   },
   "content": {
     "en":"You can start right away! For instance by planning a new training event and inviting your employees",
-    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen! <img src=‘https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true’/>"
+    "de":"Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!<img src=‘https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true’/>"
   },
   "target": ".container-fluid",
   "placement": "top-end"
