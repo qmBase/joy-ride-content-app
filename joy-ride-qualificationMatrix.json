@@ -33,7 +33,7 @@
     },
     "content": {
       "en": "You can create a new function or a new qualification. Click on <a href='/_QualificationMatrix/CompanyFunctions/Index'>Functions</a> or <a href='/_QualificationMatrix/Qualifications/Index'>Qualifications</a> and select <b> + New</b>, view existing qualifications in the <a href='/_QualificationMatrix/Qualifications/Matrix'>Qualificationmatrix</a> and more tools that help you manage the qualifications of your employees!",
-      "de": "Hier haben Sie die Möglichkeit neue Aufgaben und neue Qualifikationen zu erstellen. <p>Klicken Sie auf <a href='/_QualificationMatrix/CompanyFunctions/Index'>Aufgaben</a> oder <a href='/_QualificationMatrix/Qualifications/Index'>Qualifikationen</a> und auf <b>+Neu</b> </p> Unter Qualifikationen sehen Sie außerdem die <a href='/_QualificationMatrix/Qualifications/Matrix'>Qualifikationsmatrix</a> und weitere Tools zum managen der Mitarbeiterqualifikationen."
+      "de": "Hier haben Sie die Möglichkeit neue Aufgaben und neue Qualifikationen zu erstellen. <p>Hierfür klicken Sie auf <a href='/_QualificationMatrix/CompanyFunctions/Index'>Aufgaben</a> oder <a href='/_QualificationMatrix/Qualifications/Index'>Qualifikationen</a> und auf <b>+Neu</b>! </p> Unter Qualifikationen sehen Sie außerdem die <a href='/_QualificationMatrix/Qualifications/Matrix'>Qualifikationsmatrix</a> und weitere Tools zum managen der Mitarbeiterqualifikationen."
     },
     "target": "#sidebar-wrapper",
     "placement": "top-start"
