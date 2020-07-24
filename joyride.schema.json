@@ -35,7 +35,7 @@
           "$ref": "#/definitions/translations"
         }
       },
-      "required": ["id", "placement", "target", "content", "title"]
+      "required": ["id", "placement", "content", "title"]
     }
   },
   "properties": {
