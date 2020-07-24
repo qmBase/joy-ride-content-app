@@ -1,0 +1,50 @@
+{
+  "$id": "https://qmbase.com/joyride.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "Joyride Schema",
+  "type": "object",
+  "definitions": {
+    "translations": {
+      "type": "object",
+      "properties": {
+        "de": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      },
+      "required": ["de", "en"]
+    },
+    "contentEntry": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "number"
+        },
+        "placement": {
+          "type": "string"
+        },
+        "target": {
+          "type": "string"
+        },
+        "content": {
+          "$ref": "#/definitions/translations"
+        },
+        "title": {
+          "$ref": "#/definitions/translations"
+        }
+      },
+      "required": ["id", "placement", "target", "content", "title"]
+    }
+  },
+  "properties": {
+    "content": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/contentEntry"
+      }
+    }
+  },
+  "required": ["content"]
+}
