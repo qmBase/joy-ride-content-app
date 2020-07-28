@@ -2,7 +2,7 @@
   "$schema": "./routes.schema.json",
   "routes": [
     {
-      "url": "^\\/",
+      "url": "^\\/_Training",
       "file": "joy-ride-training.json",
       "product": "qmBase"
     }
