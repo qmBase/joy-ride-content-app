@@ -1,0 +1,10 @@
+{
+  "$schema": "../routes.schema.json",
+  "routes": [
+    {
+      "url": "/{user}/index",
+      "product": "qmBase",
+      "file": "joy-ride-training.json"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "./routes.schema.json",
+  "routes": [
+    {
+      "url": "^\\/_Training",
+      "file": "joy-ride-training.json",
+      "product": "qmBase"
+    }
+  ]
+}
