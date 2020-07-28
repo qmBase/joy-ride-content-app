@@ -1,0 +1,33 @@
+{
+  "$id": "https://qmbase.com/routes.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "Routes Schema",
+  "type": "object",
+  "definitions": {
+    "route": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "regex"
+        },
+        "product": {
+          "type": "string"
+        },
+        "file": {
+          "type": "string"
+        }
+      },
+      "required": ["url", "product", "file"]
+    }
+  },
+  "properties": {
+    "routes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/route"
+      }
+    }
+  },
+  "required": ["routes"]
+}
