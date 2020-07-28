@@ -4,7 +4,7 @@
     {
       "id": 1,
       "title": {
-        "en": " <span role='img' aria-label='Konfetti'>🎉</span>Welcome to the training app>",
+        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the training app>",
         "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
       },
       "content": {
