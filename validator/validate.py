@@ -1,5 +1,5 @@
 from jsonschema import validate
-import html5lib
+from html5_parser import parse
 import re
 import json
 import glob
@@ -20,8 +20,7 @@ def v(name, j, schema):
 
 def verify_html(txt, name):
     try:
-        print(txt)
-        html5lib.parse(txt)
+        parse(txt)
     except:
         print(f"Error validating: {name}")
         sys.exit(1)
