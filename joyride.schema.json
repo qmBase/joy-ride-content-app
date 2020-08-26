@@ -55,12 +55,19 @@
     }
   },
   "properties": {
-    "content": {
+    "steps": {
       "type": "array",
       "items": {
         "$ref": "#/definitions/contentEntry"
       }
+    },
+    "version": {
+      "type": "integer"
+    },
+    "id": {
+      "type": "string",
+      "format": "guid"
     }
   },
-  "required": ["content"]
+  "required": ["steps", "version", "id"]
 }

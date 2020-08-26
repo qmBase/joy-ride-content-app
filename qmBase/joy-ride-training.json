@@ -1,6 +1,8 @@
 {
   "$schema": "../joyride.schema.json",
-  "content": [
+  "id": "7c999d2d-bebe-4e07-8318-f9249e09fedf",
+  "version": 1,
+  "steps": [
     {
       "id": 1,
       "title": {
@@ -18,7 +20,7 @@
       "id": 2,
       "title": {
         "en": "How does the training app work?",
-        "de": "Wie funktioniert die App Schulungsmanagement?"
+        "de": "Wie funktionistepsert die App Schulungsmanagement?"
       },
       "content": {
         "en": "The App helps you to manage employee trainings and notify employees about new training events.",

@@ -1,6 +1,8 @@
 {
   "$schema": "../joyride.schema.json",
-  "content": [
+  "id": "8db18e43-6589-44fb-b648-40ea61ad2470",
+  "version": 1,
+  "steps": [
     {
       "id": 1,
       "title": {
