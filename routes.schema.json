@@ -11,7 +11,7 @@
           "type": "string"
         },
         "version": {
-          "type": "string"
+          "type": "integer"
         },
         "url": {
           "type": "string",

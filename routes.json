@@ -3,7 +3,7 @@
   "routes": [
     {
       "id": "7c999d2d-bebe-4e07-8318-f9249e09fedf",
-      "version": "1",
+      "version": 1,
       "url": "[{^\\/_Training}]",
       "file": "joy-ride-training.json",
       "product": "qmBase"
