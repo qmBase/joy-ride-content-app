@@ -65,8 +65,7 @@
       "type": "integer"
     },
     "id": {
-      "type": "string",
-      "format": "guid"
+      "type": "string"
     }
   },
   "required": ["steps", "version", "id"]

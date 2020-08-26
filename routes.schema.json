@@ -7,6 +7,12 @@
     "route": {
       "type": "object",
       "properties": {
+        "id": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
         "url": {
           "type": "string",
           "format": "regex"
@@ -18,7 +24,7 @@
           "type": "string"
         }
       },
-      "required": ["url", "product", "file"]
+      "required": ["id", "version", "url", "product", "file"]
     }
   },
   "properties": {
