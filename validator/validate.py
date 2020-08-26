@@ -1,4 +1,5 @@
 from jsonschema import validate
+import html5lib
 import re
 import json
 import glob
@@ -17,11 +18,19 @@ def v(name, j, schema):
         print(f"Error validating: {name}")
         sys.exit(1)
 
+def verify_html(txt, name):
+    try:
+        print(txt)
+        html5lib.parse(txt)
+    except:
+        print(f"Error validating: {name}")
+        sys.exit(1)
+
 
 joyride_schema = jr('joyride.schema.json')
 routes_schema = jr('routes.schema.json')
 
-products = jr('products.json')
+products = jr('routes.json')
 v('products', products, routes_schema)
 for route in products['routes']:
     try:
@@ -34,5 +43,11 @@ for j in glob.glob('*/*.json'):
     print(f'Checking {j}')
     data = jr(j)
     v(j, data, joyride_schema)
+
+    for step in data['steps']:
+        for key in step['content']:
+            verify_html(step['content'][key], j)
+        for key in step['title']:
+            verify_html(step['title'][key], j)
 
 sys.exit(0)
