@@ -31,7 +31,7 @@ This repository is used for applying a generic approach of Joyride component for
 
 Products are represented as folders and should contain one or more tours.
 
-### joy-ride-{appname}.json
+## joy-ride-{appname}.json
 
 **IMPORTANT** Each tour requires a unique ID. Use the Insert GUID Extension for this. Versions should only be incremented when the tour content is updated and **not** when spelling mistakes are corrected, because after each version increment the tour will be shown the user again. Keep $schema unchanged!
 
@@ -49,9 +49,19 @@ Those files represent the tour itself. Please start qmbase/template.json as temp
 - target: A CSS selector allows selecting an HTML element where the step will be displayed
 - placement: Where at the target the step will be shown. An editor with JSON schema support will list all currently available options for this step.
 
-### routes.json
+## routes.json
 
-Is an index for all tours which should be activated. **Please ensure the names and ids match the one specified in the tours.**
+Is an index for all tours which should be activated.
+
+### Route format
+
+**Please ensure the names and ids match the one specified in the tours.**
+
+* id: Must be same id as the referenced tour
+* version: Must be the same version as the referenced tour
+* product: The name of the product folder where the tour is stored
+* file: The filename of the tour in the product folder
+* url: The URL Pattern(REGEX) checks when the tour should be displayed. In most cases this one is suitable: `[{^\\/path1/path2}]` as It just checks If the URL starts with `path1/path2` and will also work for `path1/path2/path2` for example.
 
 
 ## Basic HTML Formatting
