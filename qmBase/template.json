@@ -15,6 +15,19 @@
       },
       "target": ".container-fluid",
       "placement": "center"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the training app>",
+        "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Schulungsmanagement"
+      },
+      "content": {
+        "en": "Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
+      },
+      "target": ".container-fluid",
+      "placement": "center"
     }
   ]
 }
