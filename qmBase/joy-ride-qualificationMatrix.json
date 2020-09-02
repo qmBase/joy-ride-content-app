@@ -40,7 +40,7 @@
         "de": "Hier haben Sie die Möglichkeit neue Aufgaben und neue Qualifikationen zu erstellen. <p>Klicken Sie auf <a href='/_QualificationMatrix/CompanyFunctions/Index'>Aufgaben</a> oder <a href='/_QualificationMatrix/Qualifications/Index'>Qualifikationen</a> und auf <b>+Neu</b> </p> Unter Qualifikationen sehen Sie außerdem die <a href='/_QualificationMatrix/Qualifications/Matrix'>Qualifikationsmatrix</a> und weitere Tools zum managen der Mitarbeiterqualifikationen."
       },
       "target": "#sidebar-wrapper",
-      "placement": "left-start"
+      "placement": "top-end"
     },
     {
       "id": 4,
