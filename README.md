@@ -33,7 +33,7 @@ Products are represented as folders and should contain one or more tours.
 
 ## joy-ride-{appname}.json
 
-**IMPORTANT** Each tour requires a unique ID. Use the Insert GUID Extension for this. Versions should only be incremented when the tour content is updated and **not** when spelling mistakes are corrected, because after each version increment the tour will be shown the user again. Keep $schema unchanged!
+**IMPORTANT** Each tour requires an unique ID. Use the Insert GUID Extension for this. Versions should only be incremented when the tour content is updated and **not** when spelling mistakes are corrected, because after each version increment the tour will be shown the user again. Keep $schema unchanged!
 
 Those files represent the tour itself. Please start qmbase/template.json as template for any tour and then just add your steps. To add a new step just look how the other steps are defined and add the step behind the last one by adding a comma and copy the new step after the comment.
 
