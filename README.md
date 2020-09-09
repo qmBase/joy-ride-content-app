@@ -61,7 +61,7 @@ Is an index for all tours which should be activated.
 * version: Must be the same version as the referenced tour
 * product: The name of the product folder where the tour is stored
 * file: The filename of the tour in the product folder
-* url: The URL Pattern(REGEX) checks when the tour should be displayed. In most cases this one is suitable: `[{^\\/path1/path2}]` as It just checks If the URL starts with `path1/path2` and will also work for `path1/path2/path2` for example.
+* url: The URL Pattern(REGEX) checks when the tour should be displayed. In most cases this one is suitable: `^(\\/path1\\/path2})` as It just checks If the URL starts with `/path1/path2` and will also work for `path1/path2/path3` for example.
 
 
 ## Basic HTML Formatting
