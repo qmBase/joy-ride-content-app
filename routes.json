@@ -14,6 +14,13 @@
       "url": "^(\\/_QualificationMatrix)",
       "file": "joy-ride-qualificationMatrix.json",
       "product": "qmBase"
+    },
+    {
+      "id": "b52978bf-9c84-46e0-82e0-92cad8190609",
+      "version": 1,
+      "url": "^(\\/_Admin)",
+      "file": "admin.json",
+      "product": "qmBase"
     }
   ]
 }
