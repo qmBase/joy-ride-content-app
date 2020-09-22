@@ -21,6 +21,13 @@
       "url": "^(\\/_Admin)",
       "file": "admin.json",
       "product": "qmBase"
+    },
+    {"id": "7873acae-8565-40cd-a165-75e3c8f4a2ab",
+      "version": 1,
+      "url": "^(\\/Employees)",
+      "file": "employees.json",
+      "product": "qmBase"
+
     }
   ]
 }
