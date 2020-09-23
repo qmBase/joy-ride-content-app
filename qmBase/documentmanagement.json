@@ -40,21 +40,8 @@
           "target": ".container-fluid",
           "placement": "center"
       },
-      {
-        "id": 4,
-        "title": {
-          "en": "The qmBase Bot <span role='img' aria-label='Roboter'>🤖</span>",
-          "de": "Der qmBase Bot <span role='img' aria-label='Roboter'>🤖</span>"
-        },
-        "content": {
-          "en": "The qmBase Bot supports you in your daily work with qmBase. Based on your data, the Bot checks which steps you should take to get more benefit out of qmBase and eliminate potential errors in your data.",
-          "de": "Der qmBase Bot unterstützt Sie bei Ihrer täglichen Arbeit mit qmBase. Basierend auf Ihren Daten überprüft der Bot im Hintergrund für Sie, welche Schritte Sie ergreifen sollten, um einen größeren Nutzen aus qmBase zu ziehen und potentielle Fehler in Ihren Daten zu eliminieren."
-        },
-        "target": "#botCard",
-        "placement": "bottom-end"
-      },
        {
-        "id": 5,
+        "id": 4,
         "title": {
           "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
           "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
