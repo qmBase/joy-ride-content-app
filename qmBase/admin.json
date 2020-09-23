@@ -1,0 +1,60 @@
+{
+  "$schema": "../joyride.schema.json",
+  "id": "b52978bf-9c84-46e0-82e0-92cad8190609",
+  "version": 1,
+  "steps": [
+    {
+      "id": 1,
+      "title": {
+        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the admin area>",
+        "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen im Admin Bereich"
+      },
+      "content": {
+        "en": "From here you can make all relevant adjustments to your qmBase software.",
+        "de": "Von hier aus können Sie alle relevanten Anpassungen an Ihrer qmBase Software vornehmen."
+      },
+      "target": ".container-fluid",
+      "placement": "center"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Die notwendigen Positionen auf einen Blick <span role='img' aria-label='Strebergesicht'>🤓</span>"
+      },
+      "content": {
+        "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+        "de": "Hier können Sie die Stammdaten Ihres Unternehmens eintragen, die Geschäftsführung und den Datenschützer ernennen."
+      },
+      "target": ".container-fluid",
+      "placement": "center"
+    }, 
+     {
+      "id": 3,
+      "title": {
+        "en": "You can access all relevant settings directly via the sidebar",
+        "de": "Über die Seitenleiste gelangen Sie direkt zu allen relevanten Einstellungen"
+      },
+      "content": {
+        "en": "Click here to manually add or directly import new users, customize your software or manage user permissions",
+        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten"
+      },
+      "target": "#sidebar-wrapper",
+      "placement": "top-end"
+    },
+     {
+      "id": 4,
+      "title": {
+        "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
+        "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
+      },
+      "content": {
+        "en": "Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
+        "de": "Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
+      },
+      "target": "#navbarHelpDropdown",
+      "placement": "right-end"
+     }
+  ]
+}
+
