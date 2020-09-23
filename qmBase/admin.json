@@ -36,8 +36,8 @@
         "de": "Über die Seitenleiste gelangen Sie direkt zu allen relevanten Einstellungen"
       },
       "content": {
-        "en": "Click here to manually add or directly import new users, customize your software or manage user permissions",
-        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten"
+        "en": "Click here to manually add or directly import new users, customize your software or manage user permissions.",
+        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten."
       },
       "target": "#sidebar-wrapper",
       "placement": "top-end"
