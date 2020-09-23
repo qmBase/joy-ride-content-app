@@ -1,5 +1,5 @@
 {
-  "$schema": "../joyride.schema.json",
+  "$schema": "https://raw.githubusercontent.com/qmBase/joy-ride-content-app/master/joyride.schema.json",
   "id": "b52978bf-9c84-46e0-82e0-92cad8190609",
   "version": 1,
   "steps": [
