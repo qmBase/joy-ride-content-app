@@ -7,7 +7,7 @@
         "id": 1,
         "title": {
           "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the app Employees>",
-          "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Mitarbteiter"
+          "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Mitarbeiter"
         },
         "content": {
           "en": "In this app you can manage your employees, maintain job descriptions, automate the creation of organizational charts and much more.",
