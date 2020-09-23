@@ -1,5 +1,5 @@
 {
-    "$schema": "../joyride.schema.json",
+  "$schema": "https://raw.githubusercontent.com/qmBase/joy-ride-content-app/master/joyride.schema.json",
     "id": "7873acae-8565-40cd-a165-75e3c8f4a2ab",
     "version": 1,
     "steps": [
@@ -7,7 +7,7 @@
         "id": 1,
         "title": {
           "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the app Employees>",
-          "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Mitarbteiter"
+          "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Mitarbeiter"
         },
         "content": {
           "en": "In this app you can manage your employees, maintain job descriptions, automate the creation of organizational charts and much more.",
@@ -39,8 +39,8 @@
           "en": "The qmBase Bot supports you in your daily work with qmBase. Based on your data, the Bot checks which steps you should take to get more benefit out of qmBase and eliminate potential errors in your data.",
           "de": "Der qmBase Bot unterstützt Sie bei Ihrer täglichen Arbeit mit qmBase. Basierend auf Ihren Daten überprüft der Bot im Hintergrund für Sie, welche Schritte Sie ergreifen sollten, um einen größeren Nutzen aus qmBase zu ziehen und potentielle Fehler in Ihren Daten zu eliminieren."
         },
-        "target": ".container-fluid",
-        "placement": "bottom-end"
+        "target": "#botCard",
+        "placement": "right-end"
       },
        {
         "id": 4,

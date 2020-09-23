@@ -1,5 +1,5 @@
 {
-  "$schema": "../joyride.schema.json",
+  "$schema": "https://raw.githubusercontent.com/qmBase/joy-ride-content-app/master/joyride.schema.json",
   "id": "b52978bf-9c84-46e0-82e0-92cad8190609",
   "version": 1,
   "steps": [
@@ -26,8 +26,8 @@
         "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
         "de": "Hier können Sie die Stammdaten Ihres Unternehmens eintragen, die Geschäftsführung und den Datenschützer ernennen."
       },
-      "target": ".container-fluid",
-      "placement": "center"
+      "target": "#gettingStartedDataCard",
+      "placement": "bottom-end"
     }, 
      {
       "id": 3,
@@ -36,8 +36,8 @@
         "de": "Über die Seitenleiste gelangen Sie direkt zu allen relevanten Einstellungen"
       },
       "content": {
-        "en": "Click here to manually add or directly import new users, customize your software or manage user permissions",
-        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten"
+        "en": "Click here to manually add or directly import new users, customize your software or manage user permissions.",
+        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten."
       },
       "target": "#sidebar-wrapper",
       "placement": "top-end"

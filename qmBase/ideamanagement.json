@@ -1,0 +1,46 @@
+{
+  "$schema": "https://raw.githubusercontent.com/qmBase/joy-ride-content-app/master/joyride.schema.json",
+  "id": "efb9ae58-6311-4ebf-9d8d-24c83807866e",
+  "version": 1,
+  "steps": [
+    {
+      "id": 1,
+      "title": {
+        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the idea management app>",
+        "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Ideenmanagement"
+      },
+      "content": {
+        "en": "Let's take a look at the app together! <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
+      },
+      "target": ".container-fluid",
+      "placement": "center"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Profit from the ideas of your employees",
+        "de": "Profitieren Sie von den Ideen Ihrer Mitarbeiter"
+      },
+      "content": {
+        "en": "The idea management is your digitalized suggestion system. Your employees can submit suggestions for improvement digitally and thus help your company to progress. <p>  Über die Sidebar können neue Ideen eingereicht werden. Außerdem finden Sie hier eine Übersicht über alle bereits eingereichten Ideen.",
+        "de": "Das Ideenmanagement ist Ihr digitalisiertes Vorschlagswesen. Ihre Mitarbeiter können Verbesserungsvorschläge digital einreichen und so Ihr Unternehmen zu mehr Fortschirtt verhelfen. <p> Über die Sidebar können neue Ideen eingereicht werden. Außerdem finden Sie hier eine Übersicht über alle bereits eingereichten Ideen."
+      },
+      "target": "#sidebar-wrapper",
+        "placement": "top-end"
+    },
+       {
+        "id": 3,
+        "title": {
+          "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
+          "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
+        },
+        "content": {
+          "en": "Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
+          "de": "Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
+        },
+        "target": "#navbarHelpDropdown",
+        "placement": "right-end"
+    }
+]
+}
