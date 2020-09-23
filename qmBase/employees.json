@@ -40,7 +40,7 @@
           "de": "Der qmBase Bot unterstützt Sie bei Ihrer täglichen Arbeit mit qmBase. Basierend auf Ihren Daten überprüft der Bot im Hintergrund für Sie, welche Schritte Sie ergreifen sollten, um einen größeren Nutzen aus qmBase zu ziehen und potentielle Fehler in Ihren Daten zu eliminieren."
         },
         "target": ".container-fluid",
-        "placement": "bottom-end"
+        "placement": "right-end"
       },
        {
         "id": 4,
