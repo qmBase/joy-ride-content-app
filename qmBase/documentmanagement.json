@@ -50,7 +50,7 @@
           "en": "The qmBase Bot supports you in your daily work with qmBase. Based on your data, the Bot checks which steps you should take to get more benefit out of qmBase and eliminate potential errors in your data.",
           "de": "Der qmBase Bot unterstützt Sie bei Ihrer täglichen Arbeit mit qmBase. Basierend auf Ihren Daten überprüft der Bot im Hintergrund für Sie, welche Schritte Sie ergreifen sollten, um einen größeren Nutzen aus qmBase zu ziehen und potentielle Fehler in Ihren Daten zu eliminieren."
         },
-        "target": ".container-fluid",
+        "target": "#botCard",
         "placement": "bottom-end"
       },
        {
