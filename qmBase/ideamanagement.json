@@ -27,7 +27,7 @@
         "de": "Das Ideenmanagement ist Ihr digitalisiertes Vorschlagswesen. Ihre Mitarbeiter können Verbesserungsvorschläge digital einreichen und so Ihr Unternehmen zu mehr Fortschirtt verhelfen. <p> Über die Sidebar können neue Ideen eingereicht werden. Außerdem finden Sie hier eine Übersicht über alle bereits eingereichten Ideen."
       },
       "target": "#sidebar-wrapper",
-        "placement": "top-end"
+        "placement": "left"
     },
        {
         "id": 3,

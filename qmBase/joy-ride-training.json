@@ -40,7 +40,7 @@
         "de": "Klicken Sie hier um eine neue Schulung zu planen oder um Kosten, bestehende Schulungen oder den Schulungsbedarf Ihrer Mitarbeiter einzusehen."
       },
       "target": "#sidebar-wrapper",
-      "placement": "top-end"
+      "placement": "right"
     },
     {
       "id": 4,
