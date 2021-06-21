@@ -40,7 +40,7 @@
         "de": "Klicken Sie hier um eine neue Schulung zu planen oder um Kosten, bestehende Schulungen oder den Schulungsbedarf Ihrer Mitarbeiter einzusehen."
       },
       "target": "#sidebar-wrapper",
-      "placement": "top-end"
+      "placement": "right-start"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       },
       "target": ".container-fluid",
       "placement": "center"
-    }, 
+    },
     {
       "id": 5,
       "title": {
@@ -62,8 +62,8 @@
         "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
       },
       "content": {
-        "en": "Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
-        "de": "Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
+        "en": "Use our <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a> to get <i>help</i>!",
+        "de": "Besuchen Sie unsere <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a>!"
       },
       "target": "#navbarHelpDropdown",
       "placement": "right-end"

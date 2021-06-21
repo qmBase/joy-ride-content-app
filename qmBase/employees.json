@@ -1,59 +1,59 @@
 {
   "$schema": "https://raw.githubusercontent.com/qmBase/joy-ride-content-app/master/joyride.schema.json",
-    "id": "7873acae-8565-40cd-a165-75e3c8f4a2ab",
-    "version": 1,
-    "steps": [
-      {
-        "id": 1,
-        "title": {
-          "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the app Employees>",
-          "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Mitarbeiter"
-        },
-        "content": {
-          "en": "In this app you can manage your employees, maintain job descriptions, automate the creation of organizational charts and much more.",
-          "de": "In dieser App können Sie Ihre Mitarbeiter verwalten, Stellenbeschreibungen pflegen, die Erstellung von Organigrammen automatisieren und vieles mehr."
-        },
-        "target": ".container-fluid",
-        "placement": "center"
+  "id": "7873acae-8565-40cd-a165-75e3c8f4a2ab",
+  "version": 1,
+  "steps": [
+    {
+      "id": 1,
+      "title": {
+        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the app Employees>",
+        "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Mitarbeiter"
       },
-           {
-        "id": 2,
-        "title": {
-          "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
-          "de": "Schauen wir uns das einmal im Detail an. <span role='img' aria-label='Strebergesicht'>🤓</span>"
-        },
-        "content": {
-          "en": "Via the sidebar you can create new employees, access the overview of all employees, manage positions and create organization charts.",
-          "de": "Über die Sidebar können Sie neue Mitarbeiter anlegen, gelangen zur Übersicht aller Mitarbeiter, können Positionen verwalten und Organigramme erstellen."
-        },
-        "target": "#sidebar-wrapper",
-        "placement": "top-end"
+      "content": {
+        "en": "In this app you can manage your employees, maintain job descriptions, automate the creation of organizational charts and much more.",
+        "de": "In dieser App können Sie Ihre Mitarbeiter verwalten, Stellenbeschreibungen pflegen, die Erstellung von Organigrammen automatisieren und vieles mehr."
       },
-      {
-        "id": 3,
-        "title": {
-          "en": "The qmBase Bot <span role='img' aria-label='Roboter'>🤖</span>",
-          "de": "Der qmBase Bot <span role='img' aria-label='Roboter'>🤖</span>"
-        },
-        "content": {
-          "en": "The qmBase Bot supports you in your daily work with qmBase. Based on your data, the Bot checks which steps you should take to get more benefit out of qmBase and eliminate potential errors in your data.",
-          "de": "Der qmBase Bot unterstützt Sie bei Ihrer täglichen Arbeit mit qmBase. Basierend auf Ihren Daten überprüft der Bot im Hintergrund für Sie, welche Schritte Sie ergreifen sollten, um einen größeren Nutzen aus qmBase zu ziehen und potentielle Fehler in Ihren Daten zu eliminieren."
-        },
-        "target": "#botCard",
-        "placement": "right-end"
+      "target": ".container-fluid",
+      "placement": "center"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Schauen wir uns das einmal im Detail an. <span role='img' aria-label='Strebergesicht'>🤓</span>"
       },
-       {
-        "id": 4,
-        "title": {
-          "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
-          "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
-        },
-        "content": {
-          "en": "Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
-          "de": "Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
-        },
-        "target": "#navbarHelpDropdown",
-        "placement": "right-end"
+      "content": {
+        "en": "Via the sidebar you can create new employees, access the overview of all employees, manage positions and create organization charts.",
+        "de": "Über die Sidebar können Sie neue Mitarbeiter anlegen, gelangen zur Übersicht aller Mitarbeiter, können Positionen verwalten und Organigramme erstellen."
+      },
+      "target": "#sidebar-wrapper",
+      "placement": "top-end"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "The qmBase Bot <span role='img' aria-label='Roboter'>🤖</span>",
+        "de": "Der qmBase Bot <span role='img' aria-label='Roboter'>🤖</span>"
+      },
+      "content": {
+        "en": "The qmBase Bot supports you in your daily work with qmBase. Based on your data, the Bot checks which steps you should take to get more benefit out of qmBase and eliminate potential errors in your data.",
+        "de": "Der qmBase Bot unterstützt Sie bei Ihrer täglichen Arbeit mit qmBase. Basierend auf Ihren Daten überprüft der Bot im Hintergrund für Sie, welche Schritte Sie ergreifen sollten, um einen größeren Nutzen aus qmBase zu ziehen und potentielle Fehler in Ihren Daten zu eliminieren."
+      },
+      "target": "#botCard",
+      "placement": "right-end"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
+        "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
+      },
+      "content": {
+        "en": "Use our <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a> to get <i>help</i>!",
+        "de": "Besuchen Sie unsere <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a>!"
+      },
+      "target": "#navbarHelpDropdown",
+      "placement": "right-end"
     }
-]
+  ]
 }
