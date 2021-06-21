@@ -4,27 +4,28 @@ This repository is used for applying a generic approach of Joyride component for
 
 ## Prerequisites
 
-* [Git](https://git-scm.com/download/win)
-* [Visual Studio Code](https://code.visualstudio.com/download)
-  * With the following extensions:
-    * [Insert GUID](https://marketplace.visualstudio.com/items?itemName=heaths.vscode-guid)
+- [Git](https://git-scm.com/download/win)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+  - With the following extensions:
+    - [Insert GUID](https://marketplace.visualstudio.com/items?itemName=heaths.vscode-guid)
 
 ## Helpful Links for Visual Studio Code
 
-* [Getting the Repository on your PC](https://code.visualstudio.com/docs/editor/github)
-* [Using Git](https://code.visualstudio.com/docs/editor/versioncontrol)
-* [Using Insert GUID](https://devblogs.microsoft.com/setup/insert-guids-directly-into-visual-studio-code/)
+- [Getting the Repository on your PC](https://code.visualstudio.com/docs/editor/github)
+- [Using Git](https://code.visualstudio.com/docs/editor/versioncontrol)
+- [Using Insert GUID](https://devblogs.microsoft.com/setup/insert-guids-directly-into-visual-studio-code/)
 
 ## Directory-Structure
 
 ```text
 .
-+-- routes.json
-+-- product1
-|   +-- joy-ride-training.json
-|   +-- joy-ride-documentManagment.json
-+-- product2
-|   +-- joy-ride-tasks.json
++-- src
+|   +-- routes.json
+|   +-- product1
+|   |   +-- joy-ride-training.json
+|   |   +-- joy-ride-documentManagment.json
+|   +-- product2
+|   |   +-- joy-ride-tasks.json
 ```
 
 ## product
@@ -37,15 +38,15 @@ Products are represented as folders and should contain one or more tours.
 
 Those files represent the tour itself. Please start qmbase/template.json as template for any tour and then just add your steps. To add a new step just look how the other steps are defined and add the step behind the last one by adding a comma and copy the new step after the comment.
 
-
 ### Step Format
+
 - id: accepts the number of the step.
 - title: the title of the step in HTML
--- de: German version
--- en: English version
+  -- de: German version
+  -- en: English version
 - content: the content of the step in HTML
--- de: German version
--- en: English version
+  -- de: German version
+  -- en: English version
 - target: A CSS selector allows selecting an HTML element where the step will be displayed
 - placement: Where at the target the step will be shown. An editor with JSON schema support will list all currently available options for this step.
 
@@ -57,12 +58,11 @@ Is an index for all tours which should be activated.
 
 **Please ensure the names and ids match the one specified in the tours.**
 
-* id: Must be same id as the referenced tour
-* version: Must be the same version as the referenced tour
-* product: The name of the product folder where the tour is stored
-* file: The filename of the tour in the product folder
-* url: The URL Pattern(REGEX) checks when the tour should be displayed. In most cases this one is suitable: `^(\\/path1\\/path2})` as It just checks If the URL starts with `/path1/path2` and will also work for `path1/path2/path3` for example.
-
+- id: Must be same id as the referenced tour
+- version: Must be the same version as the referenced tour
+- product: The name of the product folder where the tour is stored
+- file: The filename of the tour in the product folder
+- url: The URL Pattern(REGEX) checks when the tour should be displayed. In most cases this one is suitable: `^(\\/path1\\/path2})` as It just checks If the URL starts with `/path1/path2` and will also work for `path1/path2/path3` for example.
 
 ## Basic HTML Formatting
 
@@ -76,7 +76,7 @@ Is an index for all tours which should be activated.
 - `<a href=‘https://google.de’>` Link
 - `<i>` italic
 - `<img src=‘https://www.qmbase.com/wp-content/uploads/2016/07/Left_logo_qmBase_w298px.png’/>` Image
-- `<span role='img' aria-label='Konfetti‘>❤</span>`  <- any emoticons
+- `<span role='img' aria-label='Konfetti‘>❤</span>` <- any emoticons
 
 ## N.B: If the new language is not specified for title or content attributes, the default English values will be displayed
 
