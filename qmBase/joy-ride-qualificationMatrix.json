@@ -75,8 +75,8 @@
         "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
       },
       "content": {
-        "en": "Use our <a href='/_Help/Faqs/'>FAQ's</a> to get <i>help</i>!",
-        "de": "Besuchen Sie unsere <a href='/_Help/Faqs/'>FAQ's</a>!"
+        "en": "Use our <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a> to get <i>help</i>!",
+        "de": "Besuchen Sie unsere <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a>!"
       },
       "target": "#navbarHelpDropdown",
       "placement": "right-end"
