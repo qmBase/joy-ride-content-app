@@ -13,7 +13,7 @@
         "en": "Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
         "de": "Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {
@@ -26,7 +26,7 @@
         "en": "The App informs you about the different qualifications of each employee and if there is a need for further training.",
         "de": "Mithilfe des App wissen Sie genau welcher Mitarbeiter welche Qualifikationen besitzt und ob Schulungsbedarf besteht."
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {

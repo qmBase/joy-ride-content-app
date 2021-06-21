@@ -13,7 +13,7 @@
         "en": "In this app you can manage your documents.",
         "de": "In dieser App können Sie Ihre Dokumente verwalten."
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {
@@ -39,7 +39,7 @@
         "en": "Via the sidebar you can create new employees, access the overview of all employees, manage positions and create organization charts.",
         "de": "Mit unseren Vorlagen unterstützen wir Sie dabei die Anforderungen von Managementsystemen zu erfüllen. <p> Sobald Sie über den Button +Neu ein Dokument erstellt haben, können Sie es mit Schlagworten versehen und leichter auffindbar machen. <p> Durch unseren Freigabeprozess und der automatischen Versionierung haben Ihre Mitarbeiter immer die aktuellen Dokumente zur Vefügung."
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {

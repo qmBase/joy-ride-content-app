@@ -13,7 +13,7 @@
         "en": "Let's take a look at the app together <span role='img' aria-label='Strebergesicht'>🤓</span>",
         "de": "Lassen Sie uns gemeinsam einen Blick auf die App werfen! <span role='img' aria-label='Strebergesicht'>🤓</span>"
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {
@@ -26,7 +26,7 @@
         "en": "The App helps you to manage employee trainings and notify employees about new training events.",
         "de": "Mithilfe des Schulungsmanagements werden Schulungen geplant und Mitarbeiter über Schulungen informiert."
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {
@@ -52,7 +52,7 @@
         "en": "You can start right away! For instance by planning a new training event and inviting your employees",
         "de": "Sie können jetzt anfangen! Zum Beispiel indem Sie eine neue Schulung planen und Ihre Mitarbeiter dazu einladen!<img src='https://github.com/qmBase/joy-ride-content-app/blob/dev/mceclip1%20(1).png?raw=true'/>"
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {

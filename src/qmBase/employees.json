@@ -13,7 +13,7 @@
         "en": "In this app you can manage your employees, maintain job descriptions, automate the creation of organizational charts and much more.",
         "de": "In dieser App können Sie Ihre Mitarbeiter verwalten, Stellenbeschreibungen pflegen, die Erstellung von Organigrammen automatisieren und vieles mehr."
       },
-      "target": ".container-fluid",
+      "target": "#mainQmBaseContainer",
       "placement": "center"
     },
     {
