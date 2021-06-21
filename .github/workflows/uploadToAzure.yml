@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: bacongobbler/azure-blob-storage-upload@v1.2.0
         with:
-          source_dir: qmBase
+          source_dir: src
           container_name: public-joy-ride
           connection_string: ${{ secrets.ConnectionString }}
           sync: false

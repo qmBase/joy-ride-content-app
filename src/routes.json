@@ -22,23 +22,26 @@
       "file": "admin.json",
       "product": "qmBase"
     },
-    {"id": "7873acae-8565-40cd-a165-75e3c8f4a2ab",
+    {
+      "id": "7873acae-8565-40cd-a165-75e3c8f4a2ab",
       "version": 1,
       "url": "^(\\/Employees)",
       "file": "employees.json",
       "product": "qmBase"
-
     },
-    {"id": "6f4a4b0e-1ecd-4cb5-8938-6f4deab0bbf5",
-    "version": 1,
-    "url": "^(\\/_DocumentManagement)",
-    "file": "documentmanagement.json",
-    "product": "qmBase"
-  },
-{"id": "efb9ae58-6311-4ebf-9d8d-24c83807866e",
-"version": 1,
-"url": "^(\\/_IdeaManagement)",
-"file": "ideamanagement.json",
-"product": "qmBase"}
+    {
+      "id": "6f4a4b0e-1ecd-4cb5-8938-6f4deab0bbf5",
+      "version": 1,
+      "url": "^(\\/_DocumentManagement)",
+      "file": "documentmanagement.json",
+      "product": "qmBase"
+    },
+    {
+      "id": "efb9ae58-6311-4ebf-9d8d-24c83807866e",
+      "version": 1,
+      "url": "^(\\/_IdeaManagement)",
+      "file": "ideamanagement.json",
+      "product": "qmBase"
+    }
   ]
 }
