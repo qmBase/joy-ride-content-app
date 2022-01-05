@@ -1,0 +1,59 @@
+{
+  "$schema": "https://raw.githubusercontent.com/qmBase/joy-ride-content-app/master/joyride.schema.json",
+  "id": "3bc58c54-6ffc-4093-b69b-c60a4423e491",
+  "version": 1,
+  "steps": [
+    {
+      "id": 1,
+      "title": {
+        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the maintenance management",
+        "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Instandhaltung"
+      },
+      "content": {
+        "en": "From here you can make all relevant adjustments to your qmBase software.",
+        "de": "Von hier aus können Sie ihre gesamten Anlagen und Inventar überwachen und Prüfungen dokumentieren."
+      },
+      "target": "#mainQmBaseContainer",
+      "placement": "center"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Die notwendigen Positionen auf einen Blick <span role='img' aria-label='Strebergesicht'>🤓</span>"
+      },
+      "content": {
+        "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+        "de": "Hier können Sie die Stammdaten Ihres Unternehmens eintragen, die Geschäftsführung und den Datenschützer ernennen."
+      },
+      "target": "#gettingStartedDataCard",
+      "placement": "bottom-end"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "You can access all relevant settings directly via the sidebar",
+        "de": "Über die Seitenleiste gelangen Sie direkt zu allen wichtigen Einstellungen"
+      },
+      "content": {
+        "en": "Click here to manually add or directly import new users, customize your software or manage user permissions.",
+        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten."
+      },
+      "target": "#sidebar-wrapper",
+      "placement": "top-end"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
+        "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
+      },
+      "content": {
+        "en": "Use our <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a> to get <i>help</i>!",
+        "de": "Besuchen Sie unsere <a href='https://help.qmbase.com/' target='_blank' rel='noopener noreferrer'>FAQ's</a>!"
+      },
+      "target": "#navbarHelpDropdown",
+      "placement": "right-end"
+    }
+  ]
+}

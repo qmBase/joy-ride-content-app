@@ -42,6 +42,13 @@
       "url": "^(\\/_IdeaManagement)",
       "file": "ideamanagement.json",
       "product": "qmBase"
+    },
+    {
+      "id": "3bc58c54-6ffc-4093-b69b-c60a4423e491",
+      "version": 1,
+      "url": "^(\\/MaintenanceManagement)",
+      "file": "maintenance-management.json",
+      "product": "qmBase"
     }
   ]
 }
