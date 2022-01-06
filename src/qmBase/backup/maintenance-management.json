@@ -29,6 +29,45 @@
       "target": "#sidebar-wrapper",
       "placement": "top-end"
     },
+    // {
+    //   "id": 4,
+    //   "title": {
+    //     "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+    //     "de": "Das Layout der einzelnen Seiten für die Inventargegenstände folgt einem einfachten Schema"
+    //   },
+    //   "content": {
+    //     "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+    //     "de": "<img src='https://caqadmin.blob.core.windows.net/public-screenshots/manual-screenshots/abstractLayout-content.png'/><p>Der Hauptbereich mit allen wesentlichen Informationen.</p>"
+    //   },
+    //   "target": "#mainQmBaseContainer",
+    //   "placement": "center"
+    // },
+    // {
+    //   "id": 5,
+    //   "title": {
+    //     "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+    //     "de": "Kommentare und hochgeladene Dateien"
+    //   },
+    //   "content": {
+    //     "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+    //     "de": "<img src='https://caqadmin.blob.core.windows.net/public-screenshots/manual-screenshots/abstractLayout-comments.png'/>"
+    //   },
+    //   "target": "#mainQmBaseContainer",
+    //   "placement": "center"
+    // },
+    // {
+    //   "id": 6,
+    //   "title": {
+    //     "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+    //     "de": "Verknüpfte Informationen"
+    //   },
+    //   "content": {
+    //     "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+    //     "de": "<img src='https://caqadmin.blob.core.windows.net/public-screenshots/manual-screenshots/abstractLayout-connections.png'/><p>Prüfungen und verknüpfte Maßnahmen</p>"
+    //   },
+    //   "target": "#mainQmBaseContainer",
+    //   "placement": "center"
+    // },
     {
       "id": 7,
       "title": {
