@@ -11,7 +11,7 @@
       },
       "content": {
         "en": "From here you can make all relevant adjustments to your qmBase software.",
-        "de": "Von hier aus können Sie ihre gesamten Anlagen und Inventar überwachen und Prüfungen dokumentieren."
+        "de": "Die App für das Instandhaltungsmanagement und zur Prüfmittelverwaltung unterstützt Sie in der Verwaltung Ihrer Inventargegenstände. Jedem Inventargegenstand können frei definierbare Inventarprüfungen mit den notwendigen Wiederholungsintervallen zugeordnet werden. Dadurch ergibt sich Ihr Wartungsplan ganz automatisch von selbst. Sämtliche Aktivitäten des Instandhaltungsmanagements und der Prüfmittelverwaltung automatisch ausgewertet und langfristig dokumentiert."
       },
       "target": "#mainQmBaseContainer",
       "placement": "center"
@@ -26,24 +26,63 @@
         "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
         "de": "Hier können Sie die Stammdaten Ihres Unternehmens eintragen, die Geschäftsführung und den Datenschützer ernennen."
       },
-      "target": "#gettingStartedDataCard",
-      "placement": "bottom-end"
+      "target": "#mainQmBaseContainer",
+      "placement": "center"
     },
     {
       "id": 3,
       "title": {
         "en": "You can access all relevant settings directly via the sidebar",
-        "de": "Über die Seitenleiste gelangen Sie direkt zu allen wichtigen Einstellungen"
+        "de": "Über die Seitenleiste gelangen Sie direkt zu allen wichtigen Informationen"
       },
       "content": {
         "en": "Click here to manually add or directly import new users, customize your software or manage user permissions.",
-        "de": "Klicken Sie hier um neue Nutzer manuell hinzuzufügen oder direkt zu importieren, Ihre Software zu individualiseren oder die Berechtigungen der Nutzer zu verwalten."
+        "de": "Über die Seitenleiste können Sie z.B. direkt einen neuen Inventargegenstand erstellen oder aber auch alle Inventargegenstände einsehen."
       },
       "target": "#sidebar-wrapper",
       "placement": "top-end"
     },
     {
       "id": 4,
+      "title": {
+        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Das Layout der einzelnen Seiten für die Inventargegenstände folgt einem einfachten Schema"
+      },
+      "content": {
+        "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+        "de": "<img src='https://caqadmin.blob.core.windows.net/public-screenshots/manual-screenshots/abstractLayout-content.png'/><p>Der Hauptbereich mit allen wesentlichen Informationen.</p>"
+      },
+      "target": "#mainQmBaseContainer",
+      "placement": "center"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Kommentare und hochgeladene Dateien"
+      },
+      "content": {
+        "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+        "de": "<img src='https://caqadmin.blob.core.windows.net/public-screenshots/manual-screenshots/abstractLayout-comments.png'/>"
+      },
+      "target": "#mainQmBaseContainer",
+      "placement": "center"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
+        "de": "Verknüpfte Informationen"
+      },
+      "content": {
+        "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
+        "de": "<img src='https://caqadmin.blob.core.windows.net/public-screenshots/manual-screenshots/abstractLayout-connections.png'/><p>Prüfungen und verknüpfte Maßnahmen</p>"
+      },
+      "target": "#mainQmBaseContainer",
+      "placement": "center"
+    },
+    {
+      "id": 7,
       "title": {
         "en": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Do you have any questions?</p>",
         "de": "<h2><span role='img' aria-label='Checkered flag'>🏁</span></h2><p>Haben Sie noch Fragen?</p>"
