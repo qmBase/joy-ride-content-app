@@ -6,25 +6,12 @@
     {
       "id": 1,
       "title": {
-        "en": "<span role='img' aria-label='Konfetti'>🎉</span>Welcome to the maintenance management",
+        "en": "<span role='img' aria-label='Konfetti'>🪛</span>Welcome to the maintenance management",
         "de": "<span role='img' aria-label='Konfetti'>🎉</span> Willkommen in der App Instandhaltung"
       },
       "content": {
         "en": "From here you can make all relevant adjustments to your qmBase software.",
         "de": "Die App für das Instandhaltungsmanagement und zur Prüfmittelverwaltung unterstützt Sie in der Verwaltung Ihrer Inventargegenstände. Jedem Inventargegenstand können frei definierbare Inventarprüfungen mit den notwendigen Wiederholungsintervallen zugeordnet werden. Dadurch ergibt sich Ihr Wartungsplan ganz automatisch von selbst. Sämtliche Aktivitäten des Instandhaltungsmanagements und der Prüfmittelverwaltung automatisch ausgewertet und langfristig dokumentiert."
-      },
-      "target": "#mainQmBaseContainer",
-      "placement": "center"
-    },
-    {
-      "id": 2,
-      "title": {
-        "en": "First things first <span role='img' aria-label='Strebergesicht'>🤓</span>",
-        "de": "Die notwendigen Positionen auf einen Blick <span role='img' aria-label='Strebergesicht'>🤓</span>"
-      },
-      "content": {
-        "en": "Here you can enter the master data of your company, appoint the management and the data protection officer.",
-        "de": "Hier können Sie die Stammdaten Ihres Unternehmens eintragen, die Geschäftsführung und den Datenschützer ernennen."
       },
       "target": "#mainQmBaseContainer",
       "placement": "center"
