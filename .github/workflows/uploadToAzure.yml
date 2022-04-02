@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: bacongobbler/azure-blob-storage-upload@v2
+      - uses: bacongobbler/azure-blob-storage-upload@main
         with:
           source_dir: src
           container_name: public-joy-ride
